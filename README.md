@@ -9,7 +9,6 @@
 后台页面做得比较仓促，有很多功能没有完成，请见谅。参考项目：https://github.com/lin-xin/vue-manage-system
 
 
-
 ## 项目截图
 
 ### 商城前台
@@ -158,6 +157,7 @@ http://nodejs.cn/download/
 页面默认占用`8080`端口打开。
 
 5、输入上面两条命令，等待命令行窗口加载完，在浏览器输入`http://localhost:8080`即可看到页面。
+
 
 
 
